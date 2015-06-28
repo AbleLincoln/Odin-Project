@@ -1,0 +1,15 @@
+body {
+    line-height: 0px
+}
+
+
+div:not(#container) {
+    display: inline-block;
+    margin: 0px;
+    border: 1px solid black;
+    background-color: #fff;
+}
+
+.highlighted {
+    background-color: #a739a0
+}
